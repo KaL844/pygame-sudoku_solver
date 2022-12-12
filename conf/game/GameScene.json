@@ -1,0 +1,12 @@
+{
+    "boardPanel": {
+        "height": 360,
+        "width": 360,
+        "x": 250,
+        "y": 250,
+        "anchor": "MID_CENTER"
+    },
+    "solveBtn": {
+        "text": "Solve"
+    }
+}
